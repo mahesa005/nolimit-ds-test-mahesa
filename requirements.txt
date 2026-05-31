@@ -1,0 +1,9 @@
+torch>=2.6.0
+transformers
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+wordcloud
